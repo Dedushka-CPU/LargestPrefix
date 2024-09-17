@@ -56,5 +56,7 @@ int main(){
         cout << "Нет общих префиксов" << endl;
     } else {
         cout << "Наибольший общий префикс: " << res << endl;
-    }	return 0;
+    }	
+    cout<<"test"<<endl;
+    return 0;
 }
